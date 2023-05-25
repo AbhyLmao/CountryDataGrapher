@@ -1,2 +1,3 @@
-# CountryDataGrapher
-A Country data grapher made with python accessing CSV files
+# Country Data Graph maker
+A program made with python accessing CSV files and generating wanted graphs based on user input.
+
